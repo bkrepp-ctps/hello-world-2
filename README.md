@@ -1,2 +1,3 @@
 # hello-world-2
 Second hello-world repository - for walking through the tutorial a second time.
+Ah yes, a bit about me... a native New Yorker, living as an expat (w/o visa or green card) in the Boston area for > 40 years. A certified 'subway nut', but NOT a generic 'rail fan' by any means. Main interest: European art music (a.k.a. 'classical music') of the 17th and 18th centuries, particularly the work of composers living and working in German-speaking countries. My "main men" are J. S. Bach, S. L. Weiss, J. D. Heinichen, and F. J. Haydn.  If you really want to give your brain a workout, check out the fugues in J.S.B.'s 3 sonatas for violin senza basso: absolutley mind-blowing. Well, that's probably enough for starters.
